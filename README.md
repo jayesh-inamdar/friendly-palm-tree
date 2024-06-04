@@ -73,4 +73,11 @@ personal-bookshelf/
 └── README.md
 ```
 
+## ScreenShots
+1. BookSearchPage :-
+![Screenshot (356)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/204ca165-9673-4d31-8ea0-5608bf157e9d)
+
+   
+2. BookShelfPage:-
+![Screenshot (355)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/a83e5b33-e232-4aed-a458-72b65890f57b)
 
