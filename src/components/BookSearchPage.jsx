@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import BookCard from './BookCard';
-import { Link } from 'react-router-dom';
 import './BookSearchPage.css'; // Reuse the CSS from BookSearchPage
 
 const BookSearchPage = () => {
