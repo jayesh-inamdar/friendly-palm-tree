@@ -75,9 +75,10 @@ personal-bookshelf/
 
 ## ScreenShots
 1. BookSearchPage :-
-![Screenshot (356)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/204ca165-9673-4d31-8ea0-5608bf157e9d)
+   ![Screenshot (364)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/656d4933-8225-47f7-9897-481672cd90a6)
+
 
    
-2. BookShelfPage:-
-![Screenshot (355)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/a83e5b33-e232-4aed-a458-72b65890f57b)
+3. BookShelfPage:-
+   ![Screenshot (365)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/324df4d2-0e95-4e71-bbbd-27f30bf73ce0)
 
