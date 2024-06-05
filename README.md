@@ -76,9 +76,8 @@ personal-bookshelf/
 ## ScreenShots
 1. BookSearchPage :-
    ![Screenshot (364)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/656d4933-8225-47f7-9897-481672cd90a6)
-
-
    
-3. BookShelfPage:-
+2. BookShelfPage:-
    ![Screenshot (365)](https://github.com/jayesh-inamdar/personal_bookshelf/assets/144550109/324df4d2-0e95-4e71-bbbd-27f30bf73ce0)
 
+Netlify Link:- https://personalbookshelf316.netlify.app/
