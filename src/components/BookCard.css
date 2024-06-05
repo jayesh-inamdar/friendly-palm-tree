@@ -1,9 +1,17 @@
 .book-card {
+    width: 150px;
+    height: 250px;
     border: 1px solid #ddd;
-    padding: 20px;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
     display: flex;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;}
 
 .book-cover {
     width: 128px;
