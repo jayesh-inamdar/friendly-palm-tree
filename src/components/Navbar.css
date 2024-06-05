@@ -1,19 +1,21 @@
 .navbar {
     background-color: #007bff;
     color: white;
+    width: 100%;
+    padding: 10px 20px; /* Add padding to ensure spacing from the window border */
+    box-sizing: border-box;
 }
 
 .navbar-container {
     max-width: 1200px;
-    margin: 0 10px;
-    padding: 10px 20px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .brand .logo {
-    font-size: 3em;
+    font-size: 2em;
     font-weight: bold;
     color: white;
     text-decoration: none;
@@ -21,12 +23,11 @@
 
 .nav-links {
     display: flex;
-    gap: 50px;
-    margin-left: 900px;
+    gap: 20px;
 }
 
 .nav-link {
-    font-size: 20px;
+    font-size: 1em;
     color: #007bff;
     text-decoration: none;
     padding: 10px;
@@ -35,14 +36,9 @@
     display: flex;
     align-items: center; 
     justify-content: center; 
-    width: 90px; /* Ensure a circular shape */
-    height: 90px; /* Ensure a circular shape */
+    width: 60px; /* Adjusted for smaller size */
+    height: 60px; /* Adjusted for smaller size */
     transition: background-color 0.3s, color 0.3s;
-}
-
-
-.nav-link span {
-    margin-left: 5px; 
 }
 
 .nav-link:hover {
@@ -50,6 +46,9 @@
     color: white;
 }
 
+.nav-link span {
+    margin-left: 5px; 
+}
 
 @media (max-width: 768px) {
     .navbar-container {
@@ -60,12 +59,17 @@
     .nav-links {
         margin-left: 0;
         margin-top: 10px;
-        gap: 10px;
+        gap: 40px;
     }
 
     .nav-link {
-        width: 30px; /* Smaller size for mobile */
-        height: 30px; /* Smaller size for mobile */
+        width: 90px; /* Smaller size for mobile */
+        height: 90px; /* Smaller size for mobile */
         font-size: 0.8em;
     }
+}
+
+.active-nav-link {
+    background-color: #0056b3;
+    color: white;
 }
